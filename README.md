@@ -1,7 +1,9 @@
-## Introduction
-This project is a guide to creating automation tests using Javascript with Cypress.  The project includes basic issues such as: locating objects on the page, performing actions on elements. 
+![This is an image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1200px-K6-logo.svg.png)
 
-To tests using page: [TestPage](https://test.k6.io/)
+## Introduction
+Performance testing with the use k6 tool. 
+
+To test use page: [test.k6.io](https://test.k6.io/)
 
 ## Technologies:
 - Javascript
