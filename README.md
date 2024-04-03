@@ -7,4 +7,4 @@ To test use page: [test.k6.io](https://test.k6.io/)
 
 ## Technologies:
 - Javascript
-- [k6s](https://k6.io/docs/)
+- [k6](https://k6.io/docs/)
